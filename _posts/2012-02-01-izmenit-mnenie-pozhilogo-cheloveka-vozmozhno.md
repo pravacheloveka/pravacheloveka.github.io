@@ -8,12 +8,7 @@ author:
   - Модератор
 post_date:
   - 2012-02-01 05:34:00
-post_excerpt:
-  - ""
 layout: post
-permalink:
-  - ""
-  - ""
 published: true
 lj_itemid:
   - 'a:1:{i:0;s:3:"600";}'

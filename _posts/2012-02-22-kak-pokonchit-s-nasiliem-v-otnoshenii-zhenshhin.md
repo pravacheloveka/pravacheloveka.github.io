@@ -10,12 +10,7 @@ author:
 post_date:
   - 2012-02-22 04:50:00
   - 2012-02-22 04:50:00
-post_excerpt:
-  - ""
-  - ""
 layout: post
-permalink:
-  - ""
 published: true
 lj_itemid:
   - 'a:1:{i:0;s:3:"628";}'

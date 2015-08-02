@@ -10,8 +10,6 @@ post_date:
 post_excerpt:
   - ""
 layout: post
-permalink:
-  - ""
 published: true
 lj_itemid:
   - 'a:1:{i:0;s:3:"624";}'
