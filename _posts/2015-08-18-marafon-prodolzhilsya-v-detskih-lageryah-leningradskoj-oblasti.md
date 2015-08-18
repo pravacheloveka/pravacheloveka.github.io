@@ -36,7 +36,7 @@ nzs_page_layout:
 nzs_external_link:
   - 2cr
 ---
-<a href="http://pravacheloveka.info/wp-content/uploads/2015/08/Roma-lager-1.jpg"><img class="alignnone size-medium wp-image-2256" src="http://pravacheloveka.info/wp-content/uploads/2015/08/Roma-lager-1-300x200.jpg" alt="Рома лагерь1" width="300" height="200" /></a>
+<a href="http://pravacheloveka.info/wp-content/uploads/2015/08/Roma-lager-1.jpg"><img class="aligncenter wp-image-2256 size-large" src="http://pravacheloveka.info/wp-content/uploads/2015/08/Roma-lager-1-1024x683.jpg" alt="Рома лагерь1" width="610" height="407" /></a>
 
 Марафон за мир и права человека продолжает идти по городам России. Большое просветительское мероприятие прошло в Ленинградской области. В одном из детских лагерей Зеленогорска состоялась беседа для 50 ребят на тему прав человека, терпимости и уважения.
 
